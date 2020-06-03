@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{34518D97-A6DF-AC55-28A4-D183133AF7EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PIckUp.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraControler.cs" Line="23" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/playerControl.cs" Line="13" Column="18" />
+      <File FileName="Assets/Scripts/Rotate.cs" />
+      <File FileName="Assets/Scripts/PickUpL.cs" />
+      <File FileName="Assets/Scripts/PIckUpR.cs" />
+      <File FileName="Assets/Scripts/circle.cs" />
+      <File FileName="Assets/Scripts/populagte.cs" />
+      <File FileName="Assets/Scripts/PIckUp.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment 1 - Roll a Ball" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PIckUp.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d1776066-dd29-4f63-9b60-d547ef7e6239" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

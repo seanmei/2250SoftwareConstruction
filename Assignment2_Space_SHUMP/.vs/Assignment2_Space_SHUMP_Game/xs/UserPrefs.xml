@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{64BA6AF6-03BF-2D43-9A3C-14B2B4CBBC67}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../EmptyInterface.cs">
+    <Files>
+      <File FileName="../../../../../../../EmptyInterface.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2_Space_SHUMP_Game" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4997ce2d-e81f-4776-b174-8c01752ed1ee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
